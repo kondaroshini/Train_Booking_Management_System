@@ -1,4 +1,4 @@
-# Train Booking Management System
+![Screenshot 2024-07-09 140348](https://github.com/kondaroshini/Train_Booking_Management_System/assets/123068795/07b1db6b-0df6-45a8-bc00-03efadef68b5)# Train Booking Management System
 
 ## Project Overview
 The Train Booking Management System is a web application built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to search for trains, book tickets, view booking history, and manage their profile.
@@ -25,24 +25,29 @@ The Train Booking Management System is a web application built using the MERN st
 
 ### Installation
  **Backend Setup:**
+ 
     ```bash
     cd backend
     npm install
     ```
 
  **Frontend Setup:**
+ 
     ```bash
     cd frontend
     npm install
     ```
 
  **Run the Application:**
-    - Start the backend server:
+ 
+* **Start the backend server:**
+
         ```bash
         cd backend
         npm start
         ```
-    - Start the frontend server:
+* **Start the frontend server:**
+
         ```bash
         cd frontend
         npm start
